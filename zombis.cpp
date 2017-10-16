@@ -19,7 +19,6 @@ int main ()
 	getch();
 	printf("\nCuentas unas historia sobre de una chica que saco la \ncarrera de medicina.");
 	getch();
-	printf("\nY es una de las ");
 	
 	printf("--------Horror Zombie-------");
 	printf("\n1) Jugar.");
