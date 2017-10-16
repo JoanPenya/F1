@@ -21,7 +21,7 @@ int main ()
 	getch();
 	printf("\nY es una de las personas que tiene la cura contra la pademia zombie y salvar la tierra.");
 	getch();
-	printf("\nY la aventura comienza ahora.")
+	printf("\nY la aventura comienza ahora para salvar la tierra y vencer al malvado Dalas Azahar Blanco.")
 	getch();
 	
 	printf("--------Horror Zombie-------");
