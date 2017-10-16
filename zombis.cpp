@@ -19,6 +19,8 @@ int main ()
 	getch();
 	printf("\nCuentas unas historia sobre de una chica que saco la \ncarrera de medicina.");
 	getch();
+	printf("\nY es una de las personas que tiene la cura contra la pademia zombie");
+	getch();
 	
 	printf("--------Horror Zombie-------");
 	printf("\n1) Jugar.");
